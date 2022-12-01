@@ -1,5 +1,4 @@
 # Deep-Learning-Final-Proyect
-EXECUTIVE SUMMARY
 Artificial Intelligence nowadays plays a big role in the process of simplification of
 everything we do, this goes by learning these activities (man, machine, events) and creating algorithms to replicate scenarios with technology, with key objectives being to simplify processes.
 
